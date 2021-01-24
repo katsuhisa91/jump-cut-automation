@@ -1,0 +1,5 @@
+.python-version
+.env
+.aws-sam/
+src/requirements.txt
+samconfig.toml
